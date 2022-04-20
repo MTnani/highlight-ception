@@ -45,6 +45,7 @@ modules:
                 color: black
 ```
 
+
 ### Parameter description
 
 - **module** - module responsible for browser interaction, default: WebDriver.
